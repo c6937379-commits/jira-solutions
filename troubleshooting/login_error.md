@@ -1,4 +1,3 @@
-login error
-authentication failed
-token invalid
-
+login successful
+authentication successful
+token valid
